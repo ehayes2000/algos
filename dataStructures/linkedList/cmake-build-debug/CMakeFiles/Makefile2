@@ -94,12 +94,12 @@ clean: CMakeFiles/linkedList.dir/clean
 CMakeFiles/linkedList.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/linkedList.dir/build.make CMakeFiles/linkedList.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/linkedList.dir/build.make CMakeFiles/linkedList.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/eric/Code/Projects/algos/dataStructures/linkedList/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target linkedList"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/eric/Code/Projects/algos/dataStructures/linkedList/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target linkedList"
 .PHONY : CMakeFiles/linkedList.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/linkedList.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/eric/Code/Projects/algos/dataStructures/linkedList/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/eric/Code/Projects/algos/dataStructures/linkedList/cmake-build-debug/CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/linkedList.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/eric/Code/Projects/algos/dataStructures/linkedList/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/linkedList.dir/rule

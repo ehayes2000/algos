@@ -6,7 +6,17 @@
 
 #IncludeRegexTransform: 
 
+/home/eric/Code/Projects/algos/dataStructures/linkedList/LinkedList.cpp
+Node.cpp
+/home/eric/Code/Projects/algos/dataStructures/linkedList/Node.cpp
+iostream
+-
+
+/home/eric/Code/Projects/algos/dataStructures/linkedList/Node.cpp
+
 /home/eric/Code/Projects/algos/dataStructures/linkedList/main.cpp
 iostream
 -
+LinkedList.cpp
+/home/eric/Code/Projects/algos/dataStructures/linkedList/LinkedList.cpp
 
