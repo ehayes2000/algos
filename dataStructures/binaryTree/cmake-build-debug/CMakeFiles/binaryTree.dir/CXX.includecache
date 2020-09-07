@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eric/Code/Projects/algos/dataStructures/binaryTree/BinaryTree.cpp
+Node.cpp
+/home/eric/Code/Projects/algos/dataStructures/binaryTree/Node.cpp
+vector
+-
+iostream
+-
+
+/home/eric/Code/Projects/algos/dataStructures/binaryTree/Node.cpp
+string
+-
+
+/home/eric/Code/Projects/algos/dataStructures/binaryTree/main.cpp
+iostream
+-
+BinaryTree.cpp
+/home/eric/Code/Projects/algos/dataStructures/binaryTree/BinaryTree.cpp
+

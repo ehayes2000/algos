@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/binaryTree.dir/main.cpp.o CMakeFiles/binaryTree.dir/Node.cpp.o CMakeFiles/binaryTree.dir/BinaryTree.cpp.o CMakeFiles/binaryTree.dir/TraversalIter.cpp.o  -o binaryTree 
